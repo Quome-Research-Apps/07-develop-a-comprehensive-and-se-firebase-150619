@@ -1,0 +1,1 @@
+{"name": "07-develop-a-comprehensive-and-se-firebase-150619", "spec": {"port": 8000, "containers": [{"image": "", "name": "07-develop-a-comprehensive-and-se-firebase-150619", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
